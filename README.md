@@ -8,9 +8,8 @@ LIBNAME STAT408 "/courses/d716b355ba27fe300";
 
 ### Q1.  (10 points)
 
-#### a. Access SAS (5 points)
-Access the titanic dataset, create and print a dataset with only the first class females.
+#### a. (3 points)
+Access the planes dataset, create and print a dataset with only the flights to SLC and DEN.
 
-#### b. Subset (5 points)
-Access the titanic dataset, create and print a dataset with only the first class females.
-
+#### b. t-test (7 points)
+Using the dataset from above, run a t-test to compare the average departure delay for SLC and DEN.
